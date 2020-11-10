@@ -1,4 +1,4 @@
-Package: com.rileytestut.altstore.alpha.jailbroken1 
+Package: com.rileytestut.altstore.alpha.jailbroken
 Version: 1.4a9
 Architecture: iphoneos-arm
 Maintainer: DHD111
@@ -14,8 +14,8 @@ Section: Application
 Depiction: https://dhd111.github.io 
 Name: altstore alpha1
 
-Package: com.rileytestut.altdaemon1
-Version: 1.0
+Package: com.rileytestut.altdaemon
+Version: v1.0
 Architecture: iphoneos-arm
 Maintainer: Riley Testut & DHD111
 Depends:  
