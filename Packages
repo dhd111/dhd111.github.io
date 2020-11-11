@@ -5,7 +5,7 @@ Maintainer: DHD111
 Depends: com.rileytestut.altdaemon
 Conflicts: org.cydia.kiimo.altstore,
 com.hackyouriphone.altstore,
-Filename: Debs/com.rileytestut.altstore.alpha.jailbroken.deb
+Filename: debs/com.rileytestut.altstore.alpha.jailbroken.deb
 Size: 5034382 
 MD5sum: 540d217265080e0c5be78540a3cbbba9
 SHA1: def01e170eddb3834473c85b718bf2a80d6e1e4b
