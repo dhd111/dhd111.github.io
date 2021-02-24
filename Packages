@@ -76,3 +76,17 @@ SHA256: 0d9ffa46e17a90fb378fb3f0ca4255531b769c5ba880cc239f6343287f4fb9e3
 Section: Tweaks
 Depiction: You can HIDE Doing jailbreak your iDevice.
 Name: FlyJB-X
+
+Package: com.twickd.dcsyhi.fuji_1.0_iphoneos-arm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dhd111
+Depends: mobilesubstrate,ws.hbang.common,com.rpetrich.rocketbootstrap,firmware (>=13.0)
+Conflicts:
+Filename:debs/com.twickd.dcsyhi.fuji_1.0_iphoneos-arm
+Size: 951576
+MD5sum: 5ccf22041c62b22449f60b1c6a257958
+SHA1: d48f7360deaf69281408f8f18a3568cf502aef43
+SHA256: 44f2f675da6e6f067d5db5b54620ae14fb1d008cfa8c1e571546adf7a0ed4473
+Section: Tweaks
+Depiction:
